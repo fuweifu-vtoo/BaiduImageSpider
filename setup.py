@@ -9,7 +9,7 @@ with open("README.md", "r") as fh:
 
  
 setup(name='BaiduImageSpider',
-      version='0.0.1',
+      version='0.0.3',
       description='This is a package for searching for pictures on Baidu with keywords.',
       author='fuweifu',
       long_description=long_description,

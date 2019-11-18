@@ -3,5 +3,3 @@
 
  
 from .BaiduImageSpider import *
-__name__ = BaiduImageSpider
-__version__ == 0.0.1
