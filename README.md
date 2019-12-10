@@ -17,6 +17,13 @@ Args:
 - `spider_page_num`: Number of pages to be fetched Total number of images fetched Pages x60
 - `start_page`: Start page
 
+or install from source code:
+```python
+git clone https://github.com/fuweifu-vtoo/BaiduImageSpider.git
+cd BaiduImageSpider
+python setup.py install
+```
+
 ## Examples
 `crawler.start('林俊杰', １, 1)`
 ![](./images/林俊杰.png)
